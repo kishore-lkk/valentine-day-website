@@ -1,0 +1,4 @@
+https://example.com
+https://test.com
+http://duplicate.com
+https://mixedCASE.com/PATH

@@ -1,0 +1,12 @@
+https://example.com
+https://test.com  
+
+http://duplicate.com
+http://duplicate.com
+   https://mixedCASE.com/PATH 
+
+
+ ftp://weird-protocol.com
+
+
+https://example.com
