@@ -1,0 +1,374 @@
+💖 MASTER AI PROMPT – CINEMATIC VALENTINE INTERACTIVE WEBSITE
+
+🎯 OBJECTIVE
+
+Create a highly polished, cinematic, interactive Valentine’s Day website experience for a girlfriend.
+
+This should not feel like a simple webpage.
+It should feel like:
+
+An interactive love story
+
+A playful romantic game
+
+A cute animated confession
+
+A personalized digital Valentine gift
+
+The tone must be:
+
+Cute
+
+Playful
+
+Funny
+
+Romantic
+
+Emotional
+
+Cinematic
+
+Magical but wholesome
+
+The website should feel handcrafted and deeply personal.
+
+🎵 GLOBAL EXPERIENCE REQUIREMENTS
+
+Background romantic song plays from the beginning (after first user interaction due to browser autoplay policies).
+
+Smooth animated transitions between every section.
+
+Floating heart particles across romantic scenes.
+
+Soft glow effects.
+
+Elegant romantic color palette (warm pinks, blush, red, soft gold).
+
+Subtle sparkles and magical particles.
+
+Fully responsive (mobile + desktop).
+
+Modern polished UI with premium animation quality.
+
+Use high-quality animations (GSAP / CSS animations / advanced transitions if needed).
+
+Clean and well-structured code.
+
+This should feel premium — not basic HTML.
+
+🐶 PAGE 1 – PUPPY MAIL DELIVERY INTRO
+
+Concept:
+
+A cute animated puppy delivers a Valentine letter.
+
+Experience Flow:
+
+Screen opens with soft romantic background.
+
+Background music initializes (but starts after first click).
+
+Puppy enters from the side carrying a letter in mouth.
+
+Walking animation (smooth and cute).
+
+Puppy comes to center.
+
+Puppy drops letter.
+
+Looks at user with cute animation (tail wag / blinking).
+
+A glowing button appears:
+
+💌 “Open the Letter”
+
+On click:
+
+Music begins
+
+Envelope glows
+
+Smooth transition to next page
+
+Add:
+
+Floating hearts
+
+Soft sparkles
+
+Slight parallax background
+
+The intro should already make her smile.
+
+💘 PAGE 2 – VALENTINE PROPOSAL
+
+Large romantic message:
+
+“Happy Valentine’s Day ❤️”
+
+Then ask:
+
+“Will you be my Valentine?”
+
+Two buttons:
+
+💖 YES
+💔 NO
+
+If YES is clicked:
+
+Soft confetti or heart explosion animation.
+
+Cute success animation.
+
+Smooth magical transition to Gifts Page.
+
+Background music continues.
+
+If NO is clicked:
+
+This must be playful and funny.
+
+The NO button moves to a random position each time it is clicked.
+
+A cute sad popup message appears each time, rotating messages like:
+
+“That hurt my tiny heart 🥺”
+
+“Are you sureeee? 💔”
+
+“I will cry in puppy language 🐶😭”
+
+“My heart just lagged…”
+
+Keep tone funny and adorable — not forceful.
+
+Eventually YES should be easy to click.
+
+🎁 PAGE 3 – GIFT SELECTION
+
+Show 3 animated gift boxes:
+
+Slight bounce animation
+
+Hover glow effect
+
+Ribbon wiggle animation
+
+Magical particle effect
+
+Each gift opens a separate section and an animated puppy gif.
+
+Add a back button in every gift section.
+
+🎁 GIFT 1 – LOVE QUIZ
+
+Flow:
+
+Multiple cute quiz questions about girlfriend.
+
+Questions appear one by one.
+
+All questions must be answered before final surprise.
+
+Add soft animated transitions between questions.
+
+If answer is correct:
+
+Cute celebration animation
+
+Floating hearts
+
+Soft success glow
+
+If answer is wrong:
+
+Cute animated puppy appears.
+
+Puppy says: “That’s wrong 🐶💔”
+
+Add adorable disappointed animation.
+
+Allow retry.
+
+After all questions:
+
+Show a romantic photo (user provided).
+
+Photo appears with glow and soft zoom-in.
+
+Add sweet message overlay.
+
+Magical hearts floating.
+
+🎁 GIFT 2 – MEDIEVAL LOVE LETTER EXPERIENCE
+
+This should feel dramatic and emotional.
+
+Theme:
+
+Aged parchment scroll
+
+Burnt edges
+
+cute lovely font
+
+Interaction:
+
+Scroll appears closed.
+
+When clicked → scroll unrolls with animation.
+
+Letter text appears line-by-line (typewriter effect).
+
+Dramatic pacing between lines.
+
+While letter is printing:
+
+Photos appear dynamically on left and right sides.
+
+Appear one by one.
+
+Slight rotation like polaroid memories.
+
+Soft shadow.
+
+Gentle floating motion.
+
+Subtle glow.
+
+At the end:
+
+All photos gather into a final gallery layout.
+
+More floating hearts.
+
+Final romantic glow effect.
+
+This should feel deeply emotional.
+
+🎁 GIFT 3 – CINEMATIC VIDEO PAGE
+
+Features:
+
+Romantic video plays in center.
+
+Background song continues or syncs.
+
+Soft cinematic overlay.
+
+Intro text fades in before video starts.
+
+Fade to black ending.
+
+Final romantic message appears.
+
+exisisting Music volume level increases while playing the video
+
+Music behavior:
+
+Starts from beginning of website.
+
+Smooth volume control.
+
+Fades out gracefully at end.
+
+💫 ANIMATION DEPTH REQUIREMENTS
+
+Throughout entire experience:
+
+Floating heart particles
+
+Soft glow effects
+
+Smooth transitions
+
+Button hover animations
+
+Magical sparkles
+
+Puppy micro-animations (blinking, tail wag)
+
+Photo float effects
+
+Confetti or heart burst moments
+
+No harsh transitions
+
+Everything should feel smooth and intentional.
+
+🎨 DESIGN STYLE GUIDE
+
+Romantic but modern.
+
+Not tacky.
+
+Not overly pink.
+
+Elegant.
+
+Soft shadows.
+
+Rounded edges.
+
+Gentle gradients.
+
+Smooth typography.
+
+Emotional visual pacing.
+
+🧠 EMOTIONAL JOURNEY STRUCTURE
+
+Cute & Funny (Puppy intro)
+
+Playful (Proposal)
+
+Fun & Interactive (Quiz)
+
+Emotional & Deep (Medieval letter)
+
+Cinematic & Intimate (Video ending)
+
+The final feeling should be:
+
+“He really made this just for me.”
+
+🛠 FLEXIBILITY REQUIREMENTS
+
+Make it easy to customize:
+
+Replace photos easily.
+
+Replace video easily.
+
+Replace background song.
+
+Replace quiz questions.
+
+Replace letter text.
+
+Add more gifts later if needed.
+
+🚀 QUALITY EXPECTATION
+
+Do NOT generate a basic HTML template.
+
+Generate:
+
+Polished structure
+
+Organized code
+
+Advanced animations
+
+Clean architecture
+
+Elegant UI
+
+High visual impact
+
+Smooth UX
+
+This should feel like a premium interactive digital Valentine experience.
+
